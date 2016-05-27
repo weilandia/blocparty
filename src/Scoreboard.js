@@ -8,7 +8,7 @@ export function update(game) {
 
 export function updateTopScore(game, firebase) {
   updateUserTopScore(game);
-  updateGlobalTopScore(game, firebase);
+  // updateGlobalTopScore(game, firebase);
 }
 
 function updateUserTopScore(game) {

@@ -81,7 +81,6 @@ canvas {
   right: 20px;
 }
 
-
 .score {
   display: block;
   position: absolute;
@@ -90,9 +89,6 @@ canvas {
   font-size: 20px;
 }
 
-.local {
-  top: 40px
-}
 .controls {
   display: block;
   position: absolute;
@@ -114,6 +110,7 @@ canvas {
   z-index: 1;
   text-align: center;
 }
+
 button{
   background-color: transparent;
   font-size: 20px;
