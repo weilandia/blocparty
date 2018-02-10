@@ -1,14 +1,14 @@
-# Block Party
+# blocparty
 
 Block Party is a new game that was built using React and ES6.
 
-To play in production visit: [HERE](http://adamhundley.github.io/block_party/)
+To play in production visit: [HERE](http://weilandia.github.io/blocparty)
 
 For local play:
 
 ```
 
-git clone https://github.com/adamhundley/block_party
+git clone http://weilandia.github.io/blocparty
 npm install
 npm start
 visit http://localhost:3000
